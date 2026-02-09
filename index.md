@@ -6,7 +6,9 @@
 
 I am currently a PhD student in Computer Science at TU Dublin, funded by [ADAPT Center](https://www.adaptcentre.ie/about/) and supervised by [Dr. Robert Ross](https://www.adaptcentre.ie/experts/robert-ross/), [Dr. Conor Mc Ginn](https://people.tcd.ie/Profile?Username=mcginnco), and [Dr. Emma Murphy](https://scholar.google.com/citations?user=ieIgPe8AAAAJ&hl=en). Before that, I was a research and teaching assistant at College of Engineering and Computer Science (CECS) and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity, Vietnam. Prior to VinUniversity, I obtained my M.Sc. degree and B.S.E degree (talented program - top 1% university) in Mechatronics Engineering at Hanoi University of Science and Technology under the supervision of [Dr-Ing. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&hl=en&oi=ao).
 
-<!-- *I am looking for a Ph.D. opportunity to dig deeper into the topic of applying Reinforcement Learning and Computer Vision in active SLAM*. -->
+{% include social_media_links.html %}
+
+**My email**: <a href="mailto:tung.ngo@adaptcentre.ie"><b>tung.ngo(at)adaptcentre.ie
 
 ## Research Interest
 
@@ -31,7 +33,7 @@ My research interest is in human-robot interaction and autonomous systems such a
 - Jul, 2017: I won the 4th Prize in the 2017 Blitz Research Competition at [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/truonghe2017/).
 -->
 
-## Publications
+## Publications 
 
 1. [H. X. Nguyen, **T. T. Ngo**, T. V. Nguyen, A. D. Pham, and T. D. Nguyen, “An efficient approach for traffic sign detection, classification, and localization applied for autonomous intelligent vehicles,” J. Modern Phys. Lett. B, Feb. 2023, doi: 10.1142/S0217984923400110](https://www.worldscientific.com/doi/10.1142/S0217984923400110).
 2. [H. X. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Development of real-time traffic-object and traffic-sign detection models applied for autonomous intelligent vehicles,” J. Sci. Technol. Smart Syst. Devices, vol. 32, pp. 17-24, Jan. 2022, doi: 10.51316/jst.155.ssad.2022.32.1.3](https://jst.hust.edu.vn/journals/jst.155.ssad.2022.32.1.3).

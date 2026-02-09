@@ -28,5 +28,5 @@ nav:
    link: "/pages/research"
  - name: "Social activities"
    link: "/pages/social"
- - name: "Contact"
-   link: "/pages/contact"
+#  - name: "Contact"
+#    link: "/pages/contact"
