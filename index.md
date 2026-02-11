@@ -6,13 +6,16 @@
 
 I am currently a PhD student in Computer Science at TU Dublin, funded by [ADAPT Center](https://www.adaptcentre.ie/about/) and supervised by [Dr. Robert Ross](https://www.adaptcentre.ie/experts/robert-ross/), [Dr. Conor Mc Ginn](https://people.tcd.ie/Profile?Username=mcginnco), and [Dr. Emma Murphy](https://scholar.google.com/citations?user=ieIgPe8AAAAJ&hl=en). Before that, I was a research and teaching assistant at College of Engineering and Computer Science (CECS) and [VinUni-Illinois Smart Health Center (VISHC)](https://smarthealth.vinuni.edu.vn/), VinUniversity, Vietnam. Prior to VinUniversity, I obtained my M.Sc. degree and B.S.E degree (talented program - top 1% university) in Mechatronics Engineering at Hanoi University of Science and Technology under the supervision of [Dr-Ing. Xuan-Ha Nguyen](https://scholar.google.com/citations?user=FO_xu-8AAAAJ&hl=en&oi=ao).
 
-{% include social_media_links.html %}
 
 **My email**: <a href="mailto:tung.ngo@adaptcentre.ie"><b>tung.ngo(at)adaptcentre.ie
 
+{% include social_media_links.html %}
+
 ## Research Interest
 
-My research interest is in human-robot interaction and autonomous systems such as robots, and vehicles. My research spans from algorithms (**Reinforcement Learning, SLAM, Deep Learning, and Probabilistic Robotics**) to hands-on developing robotic systems (ROS, electrical circuit, and 3D printing).
+Human-Robot Interaction, Human-Centered Development, Foundational Models (Vision-Language-Action Models, Large Language Models), Reinforcement Learning, Computer Vision, SLAM, Sensor Fusion
+
+<!-- My research interest is in human-robot interaction and autonomous systems such as robots, and vehicles. My research spans from algorithms (**Reinforcement Learning, SLAM, Deep Learning, and Probabilistic Robotics**) to hands-on developing robotic systems (ROS, electrical circuit, and 3D printing). -->
 
 <!-- 
 ## News 
@@ -35,16 +38,20 @@ My research interest is in human-robot interaction and autonomous systems such a
 
 ## Publications 
 
-1. [H. X. Nguyen, **T. T. Ngo**, T. V. Nguyen, A. D. Pham, and T. D. Nguyen, “An efficient approach for traffic sign detection, classification, and localization applied for autonomous intelligent vehicles,” J. Modern Phys. Lett. B, Feb. 2023, doi: 10.1142/S0217984923400110](https://www.worldscientific.com/doi/10.1142/S0217984923400110).
-2. [H. X. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Development of real-time traffic-object and traffic-sign detection models applied for autonomous intelligent vehicles,” J. Sci. Technol. Smart Syst. Devices, vol. 32, pp. 17-24, Jan. 2022, doi: 10.51316/jst.155.ssad.2022.32.1.3](https://jst.hust.edu.vn/journals/jst.155.ssad.2022.32.1.3).
-3. [H. X. Nguyen, **T. T. Ngo**, and H. V. Nguyen, “Development of an autonomous intelligent mobile robot based on AI and SLAM technology,” in Proc. Int. Conf. Intell. Syst. Netw. 2021, pp. 319-326, doi: 10.1007/978-981-16-2094-2_40](https://link.springer.com/chapter/10.1007/978-981-16-2094-2_40).
-4. [H. X. Nguyen, H. V. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Improvement of Control Algorithm for mobile robot using multi-layer sensor fusion,” Vietnam J. Sci. Technol., vol. 59, no. 1, pp. 110-119, Feb. 2021, doi: 10.15625/2525-2518/59/0/15301](https://vjs.ac.vn/index.php/jst/article/view/15301).
-5. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6](https://jst.hust.edu.vn/journals/30.7.6).
+1. T. T. Ngo, E. Murphy, and R. Ross, “Vision-Language System using Open-Source LLMs for Consent and Instruction Gestures in Medical Interpreter Robots,” in Companion Proc. 21st ACM/IEEE Int. Conf. on Human-Robot Interaction, Edinburgh, UK, 2026. doi: 10.1145/3776734.3794357.
+2. [T. T. Ngo, E. Murphy, C. McGinn, and R. Ross, “Body-Oriented Gesture Generation System for Medical Interpreter Robots Based on Reinforcement Learning from Human Feedback,” in Int. Conf. AI in Healthcare Collection of Short Abstr., Cambridge, UK, 2025. doi: 10.5281/zenodo.17037425](https://zenodo.org/records/17037425).
+3. [T. T. Ngo et al., “Development of a Cost-effective On-device Natural Language Command Navigation System for Mobile Robots in Challenging Indoor Scenarios,” in Proc. 2025 IEEE/SICE Int. Symp. Syst. Integration (SII), Munich, Germany, 2025, pp. 1255-1259, doi: 10.1109/SII59315.2025.10870597](https://ieeexplore.ieee.org/abstract/document/10870597).
+4. [H. X. Nguyen, **T. T. Ngo**, T. V. Nguyen, A. D. Pham, and T. D. Nguyen, “An efficient approach for traffic sign detection, classification, and localization applied for autonomous intelligent vehicles,” J. Modern Phys. Lett. B, Feb. 2023, doi: 10.1142/S0217984923400110](https://www.worldscientific.com/doi/10.1142/S0217984923400110).
+5. [H. X. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Development of real-time traffic-object and traffic-sign detection models applied for autonomous intelligent vehicles,” J. Sci. Technol. Smart Syst. Devices, vol. 32, pp. 17-24, Jan. 2022, doi: 10.51316/jst.155.ssad.2022.32.1.3](https://jst.hust.edu.vn/journals/jst.155.ssad.2022.32.1.3).
+6. [H. X. Nguyen, **T. T. Ngo**, and H. V. Nguyen, “Development of an autonomous intelligent mobile robot based on AI and SLAM technology,” in Proc. Int. Conf. Intell. Syst. Netw. 2021, pp. 319-326, doi: 10.1007/978-981-16-2094-2_40](https://link.springer.com/chapter/10.1007/978-981-16-2094-2_40).
+7. [H. X. Nguyen, H. V. Nguyen, **T. T. Ngo**, and A. D. Nguyen, “Improvement of Control Algorithm for mobile robot using multi-layer sensor fusion,” Vietnam J. Sci. Technol., vol. 59, no. 1, pp. 110-119, Feb. 2021, doi: 10.15625/2525-2518/59/0/15301](https://vjs.ac.vn/index.php/jst/article/view/15301).
+8. [H. X. Nguyen, H. V. Nguyen, and **T. T. Ngo**, “A new landmark detection approach for SLAM algorithm applied in mobile robot,” J. Sci. Technol. Tech. Univ., vol. 146, pp. 31-36, Nov. 2020, doi: 10.51316/30.7.6](https://jst.hust.edu.vn/journals/30.7.6).
 
 ## Honors and Awards
 
 Year | Name | Orgranization
 -----|-------|--------
+2025 | Top 15 Huawei Ireland Tech Arena: An LLM Efficiency Challenge | Huawei Ireland Research Center
 2023 | PhD Scholarship | ADAPT Center
 2020 | Domestic Master Scholarship | Vingroup Innovation Foundation
 2020 | 1st Prize in Student Research Competition | Hanoi University of Science and Technology
@@ -56,7 +63,8 @@ Year | Name | Orgranization
 
 ## In the media
 
-1. ["Lớp học tùy tâm" của sinh viên Bách Khoa](https://www.facebook.com/hoisinhvien.com.vn/photos/a.604584152920986/1162148143831248/)
-2. [Robot tự hành của các sinh viên Đại học Bách Khoa](https://www.facebook.com/cafesangvoivtv3/videos/318235686229132)
-3. [Sáng chế robot chống dịch covid-19 của sinh viên](https://www.youtube.com/watch?v=eM2H02RkWSQ)
-4. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)
+1. ["Lớp học tùy tâm" của sinh viên Bách Khoa - Báo Sinh Viên Việt Nam](https://www.facebook.com/hoisinhvien.com.vn/photos/a.604584152920986/1162148143831248/)
+2. [Robot tự hành của các sinh viên Đại học Bách Khoa - VTV3](https://www.facebook.com/cafesangvoivtv3/videos/318235686229132)
+3. [Sáng chế robot chống dịch covid-19 của sinh viên - VTC14](https://www.youtube.com/watch?v=eM2H02RkWSQ)
+4. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ - Vietnamnet](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)
+5. ["Cá Bách khoa" vươn ra "biển lớn" - Đặc san Tết BKHN](https://www.hust.edu.vn/vi/news/hop-tac-doi-ngoai-truyen-thong/ca-bach-khoa-vuon-ra-bien-lon-655353.html?fbclid=IwY2xjawP5q2FleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeKx9bAhZzqxjAj21kZLUAcI3UMQUdk-_3MIjQlXz-lG_kPpLer27hhS-c8Hg_aem_Y9iFf0eyP-oAb0zLDFr4lw)
