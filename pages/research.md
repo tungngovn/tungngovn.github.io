@@ -1,11 +1,23 @@
 
 # Research (Under construction)
 
-## ECG 
+## Medical Interpreter Robot
+
+Non-verbal cues play a vital role in communication between healthcare stakeholders (doctors, patients) who speak different native languages. 
+
+<!-- [![Medical interpreter robot](https://img.youtube.com/vi/v6WDv4eWN_k/0.jpg)](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing) -->
+
+[![Medical interpreter robot]](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing)
+
+## Human-LLM Collaboration in Qualitative Data Analysis
+
+
+
+<!-- ## ECG 
 
 PI: [Dr. Cuong Do](https://vinuni.edu.vn/people/do-danh-cuong/)
 
-ECG classification using deep learning and preprocessing techniques such as matrix profile, R-peak analysis. 
+ECG classification using deep learning and preprocessing techniques such as matrix profile, R-peak analysis.  -->
 
 ## MedBot
 
