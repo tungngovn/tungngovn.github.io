@@ -7,7 +7,7 @@ Non-verbal cues play a vital role in communication between healthcare stakeholde
 
 <!-- [![Medical interpreter robot](https://img.youtube.com/vi/v6WDv4eWN_k/0.jpg)](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing) -->
 
-[![Medical interpreter robot]](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing)
+[![Medical interpreter robot](/assets/projects/Med-Interpreter-Demo.png)](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing)
 
 ## Human-LLM Collaboration in Qualitative Data Analysis
 
