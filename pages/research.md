@@ -3,7 +3,7 @@
 
 ## Medical Interpreter Robot
 
-Non-verbal cues play a vital role in communication between healthcare stakeholders (doctors, patients) who speak different native languages. 
+Non-verbal cues play a vital role in communication between healthcare stakeholders (doctors, patients) who speak different native languages. This project explores important gestures in healthcare settings and how humanoid robots can learn those gestures while interacting with human.
 
 <!-- [![Medical interpreter robot](https://img.youtube.com/vi/v6WDv4eWN_k/0.jpg)](https://drive.google.com/file/d/17LQtkd8u5Nft0YME1G42gBssSuPgU-c9/view?usp=sharing) -->
 
@@ -11,7 +11,7 @@ Non-verbal cues play a vital role in communication between healthcare stakeholde
 
 ## Human-LLM Collaboration in Qualitative Data Analysis
 
-
+Qualitative data analysis is labor-intensive. This research explores how AI, particularly LLMs, could collaborate with researchers to improve the quality and the efficiency of the qualitative data analysis process.
 
 <!-- ## ECG 
 
