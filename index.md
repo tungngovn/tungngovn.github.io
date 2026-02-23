@@ -68,4 +68,4 @@ Year | Name | Orgranization
 3. [Sáng chế robot chống dịch covid-19 của sinh viên - VTC14](https://www.youtube.com/watch?v=eM2H02RkWSQ)
 4. [Sinh viên chế robot tự hành nói tiếng Việt với giá bất ngờ - Vietnamnet](https://vietnamnet.vn/sinh-vien-che-robot-tu-hanh-noi-tieng-viet-voi-gia-bat-ngo-652418.html)
 5. ["Cá Bách khoa" vươn ra "biển lớn" - Đặc san Tết BKHN](https://www.hust.edu.vn/vi/news/hop-tac-doi-ngoai-truyen-thong/ca-bach-khoa-vuon-ra-bien-lon-655353.html?fbclid=IwY2xjawP5q2FleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeKx9bAhZzqxjAj21kZLUAcI3UMQUdk-_3MIjQlXz-lG_kPpLer27hhS-c8Hg_aem_Y9iFf0eyP-oAb0zLDFr4lw)
-6. [Du học sinh Việt đón Tết xa nhà: Đi tìm câu trả lời "Tôi là ai?"](https://dantri.com.vn/giao-duc/du-hoc-sinh-viet-don-tet-xa-nha-di-tim-cau-tra-loi-toi-la-ai-20260214225647951.htm)
+6. [Du học sinh Việt đón Tết xa nhà: Đi tìm câu trả lời "Tôi là ai?" - Dân trí](https://dantri.com.vn/giao-duc/du-hoc-sinh-viet-don-tet-xa-nha-di-tim-cau-tra-loi-toi-la-ai-20260214225647951.htm)
